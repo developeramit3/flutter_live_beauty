@@ -1,9 +1,9 @@
 name: flutter_live_beauty
 description: "A production-grade, open-source real-time live-streaming beauty filter and face enhancement SDK for Flutter with zero paid third-party dependencies."
 version: 1.0.0
-homepage: https://github.com/livebeauty/flutter_live_beauty
-repository: https://github.com/livebeauty/flutter_live_beauty
-issue_tracker: https://github.com/livebeauty/flutter_live_beauty/issues
+homepage: https://github.com/developeramit3/flutter_live_beauty
+repository: https://github.com/developeramit3/flutter_live_beauty
+issue_tracker: https://github.com/developeramit3/flutter_live_beauty/issues
 
 environment:
   sdk: ^3.12.2
